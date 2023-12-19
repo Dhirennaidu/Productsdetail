@@ -1,0 +1,63 @@
+[
+  {
+    "catname": "mobile",
+    "product": {
+      "Product_name": "SAMSUNG",
+      "Product_MODEL": "SAMSUNG Galaxy S23 Ultra 5G",
+      "Product_DESC": "SAMSUNG Galaxy S23 Ultra 5G (Green, 256 GB)  (12 GB RAM)",
+      "image": {
+        "img1": "A1.jpg",
+        "img2": "A2.jpg",
+        "img3": "A3.jpg",
+        "img4": "A4.jpg"
+      },
+      "detail": {
+        "camera": "200MP + 10MP + 12MP + 10MP | 12MP Front Camera",
+        "display": "17.27 cm (6.8 inch) Quad HD+ Display",
+        "Processor": "5000 mAh Lithium Ion Battery Qualcomm Snapdragon 8 Gen 2 Processor"
+      },
+      "Price": [
+        {
+          "price": 128999,
+          "off": 16,
+          "Finalprice": 125999,
+          "Ram": "12 GB RAM",
+          "Rom": "128 GB ROM"
+        },
+        {
+          "price": 131999,
+          "off": 16,
+          "Finalprice": 128999,
+          "Ram": "12 GB RAM",
+          "Rom": "256 GB ROM"
+        }
+      ],
+      "color": [
+        {
+          "color": "Cream",
+          "Cimg1": "CA1.jpg",
+          "Cimg2": "CA2.jpg",
+          "Cimg3": "CA3.jpg",
+          "Cimg4": "CA4.jpg"
+        },
+        {
+          "color": "Phantom Black",
+          "Cimg1": "AP1.jpg",
+          "Cimg2": "AP2.jpg",
+          "Cimg3": "AP3.jpg",
+          "Cimg4": "AP4.jpg"
+        },
+        {
+          "color": "Silver Black",
+          "Cimg1": "A1.jpg",
+          "Cimg2": "A2.jpg",
+          "Cimg3": "A3.jpg",
+          "Cimg4": "A4.jpg"
+        }
+      ],
+      "social": [],
+      "commets": [],
+      "Product_ID": 301
+    }
+  }
+]
